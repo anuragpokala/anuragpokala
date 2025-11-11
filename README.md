@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**anuragpokala/anuragpokala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Anurag Pokala
 
-Here are some ideas to get you started:
+CS @ Virginia Tech (Data-Centric Computing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+- SWE Intern @ Vonar.ai (secure AI voice automation for gov and enterprise)
+- Undergraduate Research Assistant @ VT CS (LLMs in usability testing)
+- Analyst-in-Training @ SEED (research and valuation on a $5M student-run portfolio)
+
+## Skills
+Languages: Java, Python, JavaScript/TypeScript, C/C++, SQL  
+Backend: FastAPI, Node.js/Express, Postgres, Redis, Docker  
+AI/IR: OpenAI/Anthropic, embeddings, Chroma, RAG  
+Frontend: React, Next.js, Tailwind, shadcn/ui  
+Tools: Git/GitHub, pytest, basic CI/CD
+
+## Contact
+Email: pokala.anurag@gmail.com  
+LinkedIn: https://www.linkedin.com/in/anurag-pokala  
+GitHub: https://github.com/anuragpokala
+
