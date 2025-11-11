@@ -9,12 +9,6 @@ CS @ Virginia Tech (Data-Centric Computing)
 - Undergraduate Research Assistant @ VT CS (LLMs in usability testing)
 - Analyst-in-Training @ SEED (research and valuation on a $5M student-run portfolio)
 
-## Skills
-Languages: Java, Python, JavaScript/TypeScript, C/C++, SQL  
-Backend: FastAPI, Node.js/Express, Postgres, Redis, Docker  
-AI/IR: OpenAI/Anthropic, embeddings, Chroma, RAG  
-Frontend: React, Next.js, Tailwind, shadcn/ui  
-Tools: Git/GitHub, pytest, basic CI/CD
 
 ## Contact
 Email: pokala.anurag@gmail.com  
